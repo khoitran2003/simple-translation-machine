@@ -17,17 +17,9 @@ This is a simple translation machine that uses a custom Transformer model to tra
 
 I implemented this project for learning purposes from [Attention is all you need](https://arxiv.org/pdf/1706.03762).
 
-### How to run
-
-1. Clone the repository
-2. Install the requirements
-3. Run the code
-4. Enter the English sentence you want to translate
-5. See the result
-
 ### Training result
 
-![image](training_result/2.png)
+![image](2.png)
 
-![image](training_result/3.png)
+![image](3.png)
 
