@@ -1,4 +1,4 @@
-## Simple Translation Machine
+## Simple Translation Machine (closed source)
 
 Run it on VSCode:
 
